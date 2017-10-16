@@ -4,11 +4,11 @@ const defaultConfig = {
 
 const config = {
   development: {
-    DB_URL: 'mongodb://localhost/react-admin-dev',
-    JWT_SECRET: 'reactadmin',
+    DB_URL: 'mongodb://localhost/nodejs-admin-dev',
+    JWT_SECRET: 'nodejsadmin',
   },
   production: {
-    DB_URL: 'mongodb://localhost/react-admin-prod',
+    DB_URL: 'mongodb://localhost/nodejs-admin-prod',
   },
 };
 
